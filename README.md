@@ -14,3 +14,5 @@ This sensor has the following changes from the official version:
 # Important: ArduinoJSON library support
 
 The ArduinoJSON library installs ArduinoJSON version 6 by default. This version is still in beta ( see https://arduinojson.org/v5/example/ ) and the author recommends using version 5. It also introduces a few breaking changes. This sketch compiles with at least 5.13.2.
+
+Modified to support Lolin DHT shield V3 (DHT12)
