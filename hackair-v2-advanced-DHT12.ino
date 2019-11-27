@@ -7,7 +7,7 @@
  * @author LoRAthens Air Quality team
  * @author Thanasis Georgiou (Cleanup)
  * @author Michiel van der Kraats ( added custom parameter to WiFi manager, mDNS support, Adafruit.IO and cleanup )
- * @modified by anmerrigan
+ * @modified by amerrigan
  * This example is part of the hackAIR Arduino Library and is available
  * in the Public Domain.
  */
