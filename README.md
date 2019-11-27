@@ -15,5 +15,5 @@ This sensor has the following changes from the official version:
 
 The ArduinoJSON library installs ArduinoJSON version 6 by default. This version is still in beta ( see https://arduinojson.org/v5/example/ ) and the author recommends using version 5. It also introduces a few breaking changes. This sketch compiles with at least 5.13.2.
 
-# Modified to support Lolin DHT shield V3 (DHT12)
+# Modified to support Lolin DHT shield V2/3 [DHT12](https://www.banggood.com/custlink/mKK3AGiQbL)
 Requires Xreef's DH12 library https://github.com/xreef/DHT12_sensor_library 
